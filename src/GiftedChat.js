@@ -167,7 +167,7 @@ class GiftedChat extends React.Component {
   }
 
   setKeyboardHeight(height) {
-    this._keyboardHeight = height;
+    this._keyboardHeight = 0;
   }
 
   getKeyboardHeight() {
